@@ -57,3 +57,6 @@
 .container__botao {
   display: none;
 }
+
+@media screen and (min-widht:1024px){}
+  
