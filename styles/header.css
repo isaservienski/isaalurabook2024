@@ -91,6 +91,7 @@
   .opções__item {
       padding: 0 1em;
       text-transform: uppercase;
+      list-style: none;
   }
 
   .opções__link {
